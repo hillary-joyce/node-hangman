@@ -1,0 +1,22 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "Node to Joy - A Classical Music-Themed Hangman Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hillary-joyce/node-hangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hillary-joyce/node-hangman/issues"
+  },
+  "homepage": "https://github.com/hillary-joyce/node-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
